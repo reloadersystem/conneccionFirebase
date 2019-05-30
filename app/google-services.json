@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "529034522778",
+    "firebase_url": "https://farmacia-2c943.firebaseio.com",
+    "project_id": "farmacia-2c943",
+    "storage_bucket": "farmacia-2c943.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529034522778:android:8022b5e5355d9b8a",
+        "android_client_info": {
+          "package_name": "com.example.silvia.farmacia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529034522778-5mt58nmms3s7h8r1m5hquv7r79kditj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQz05Td1toe-cjqpSD6jRYIZab20-6fUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529034522778-5mt58nmms3s7h8r1m5hquv7r79kditj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
